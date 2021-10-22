@@ -31,3 +31,8 @@ itemsSort(inputs)
 
 inputs = [1] * 9
 itemsSort(inputs)
+
+# Ans should be:
+# [3, 6, 4, 4, 5, 5]
+# [8, 4, 4, 1, 1, 1, 5, 5, 5, 5]
+# [1, 1, 1, 1, 1, 1, 1, 1, 1]
